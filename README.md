@@ -20,13 +20,13 @@ GSC / WordPress / GitHub Actions / API / SEO改善自動化など、ブログ運
 
 投資分析データをNotionやWebダッシュボードへ集約・表示する仕組みの開発記録。
 
-今後のTILを `investment-dashboard/` に記録します。
+- [2026年9月](investment-dashboard/2026-09.md)
 
 ### 📊 TradingView Indicator
 
 Pine Script / FVG / SMC / マルチタイムフレームなど、TradingViewインジケーター開発の記録。
 
-今後のTILを `tradingview/` に記録します。
+- [2026年9月](tradingview/2026-09.md)
 
 ### 🛠 Other
 
